@@ -5,6 +5,8 @@
 //  Created by masato on 7/10/2018.
 //  Copyright © 2018 masato. All rights reserved.
 //
+//  Swift 4.2
+//
 
 import UIKit
 
